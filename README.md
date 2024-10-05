@@ -12,4 +12,8 @@
 - As probabilidades com maiores valores serão as que irão definir se é da classe ou não
 - Define que todas as variáveis preditoras são idependente uma das outras
 ### Exemplo
+- Junto a esse reporitório tem um arquivo gerado no ambiente do Google Colab que trata de aplicar o algoritmo de naive bayes em 3 datasets:
+  - risco_credito.csv
+  - credit.pkl
+  - census.pkl
 ## Aplicações
