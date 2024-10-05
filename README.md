@@ -1,5 +1,6 @@
 # Naive Bayes
-![image](https://github.com/user-attachments/assets/fd800d1c-f58a-47d7-a8b7-c619ae8fa741)
+![image](https://github.com/user-attachments/assets/0e8d999c-4d9b-474a-ac3d-b0722380327e)
+
 
 ## O que é?
 - O Teorema de Bayes utiliza probabilidade para prever a categoria de uma amostra de dados
