@@ -5,6 +5,7 @@
 ## O que é?
 - O Teorema de Bayes utiliza probabilidade para prever a categoria de uma amostra de dados
 - Naive Bayes é tanto um conceito estatístico quanto o nome de um algoritmo que utiliza esses conceitos para a resolução de problemas usando uma base de dados histórica para gerar uma tabela de probabilidades que define qual a maior possiblidade de acerto de categorizar uma série de dados em uma classe
+- Esse algoritmo não considera as relações entre os atributos do conjunto dos preditores, por isso o "naive"
 ## Como funciona
 - Gere as probalidades da categoria selecionada com probabilidades apriori e posteriori
 - Monte uma tabela definindo a probabilidade em cima das definições já feitas em relação ao espaço amostral do dataset (probabilidades prévias)
@@ -17,3 +18,10 @@
   - credit.pkl
   - census.pkl
 ## Aplicações
+- Reconhecimento de padrões
+    - Diagnósticos médicos
+    - Transações suspeitas
+- Problemas de classificação
+    - Classificação de textos
+- Sistemas de recomendações
+    - Com base em dados do dataset, é possível criar uma propabilidade de acertos de sugertões
